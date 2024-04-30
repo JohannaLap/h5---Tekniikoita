@@ -1,2 +1,2 @@
-# h5---Tekniikoita
+# h5-Tekniikoita
 Kotitehtävät
